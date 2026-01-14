@@ -26,6 +26,10 @@ Balancing interpolation with realistic evaluation
 Chose daily energy forecasting instead of hourly for operational relevance.
 Selected SARIMA for interpretability and robustness over complex ML models.
 Included confidence intervals to communicate forecast uncertainty.
+Captures trend and weekly seasonality effectively
+Well-suited for medium-sized time-series data
+Highly interpretable compared to black-box ML models
+Commonly used in energy and weather forecasting literature
 
 # Tools & Technologies
 Python
